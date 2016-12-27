@@ -1,0 +1,6 @@
+date(dd/mm/yyyy),categories(max 2),description,cost,claimable
+24/06/2016,groceries,Woolworths,10.39,no
+12/12/2016,Other,Good Samaritan,6.00,no
+9/12/2016,Gifts,,35.95,no
+18/12/2016,Other,Tip Load,8.10,no
+16/12/2016,Eating Out,Subway,10.75,no

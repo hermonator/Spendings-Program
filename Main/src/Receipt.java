@@ -3,7 +3,7 @@
  */
 public class Receipt {
     // Details of the receipt
-    private final String[] CATEGORIES = {"Groceries", "Tech", "Medicines", "Furniture", "Gifts", "Work Expense"};
+    private final String[] CATEGORIES = {"Groceries", "Tech", "Medicines", "Furniture", "Gifts", "Work Expense","Other","Eating Out"};
     private String description;
     private float cost;
     private boolean claimable;
